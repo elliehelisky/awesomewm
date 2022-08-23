@@ -3,4 +3,4 @@
 Ellie's Build of AwesomeWM.
 
 # Reasoning
-DWM Broke on me, too lazy to fix it. Now I am am forced to use AwesomeWM.
+DWM Broke with my last Gentoo Emerge. Decided to jump ship to AwesomeWM
